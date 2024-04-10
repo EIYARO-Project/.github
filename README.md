@@ -1,2 +1,2 @@
-# .github
-EIYARO Public Information
+# EIYARO Project
+The `EIYARO` Project information.
