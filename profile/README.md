@@ -1,5 +1,7 @@
 ## Hi there 👋
+## What is Eiyaro?
 
+The goal of the EIYARO project is to create a blockchain ecosystem with a wide range of application scenarios, and provide users with safe, efficient and convenient digital asset transaction services. We will reduce transaction costs, increase transaction speed, and ensure network security and stability through continuous technological innovation and optimisation.
 <!--
 
 **Here are some ideas to get you started:**
